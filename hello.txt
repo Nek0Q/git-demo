@@ -3,4 +3,4 @@ hello remember to push i when you want to insert
 hello remember to push i when you want to insert
 push esc to log out 
 push yy to copy
-push p to paste iii
+push p to paste ii
