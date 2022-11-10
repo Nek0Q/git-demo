@@ -2,5 +2,5 @@ hello remember to push i when you want to insert
 hello remember to push i when you want to insert
 hello remember to push i when you want to insert
 push esc to log out 
-push yy to copy
+push yy to copy hot-fix
 push p to paste ii
